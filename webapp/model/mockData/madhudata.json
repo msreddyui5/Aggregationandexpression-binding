@@ -1,0 +1,36 @@
+{
+	"empStr": {
+ 		"empNo": 100,
+ 		"eName": "Anubhav ",
+ 		"Salary": "1500000",
+ 		"currency": "EUR",
+ 		"Smoker": false,
+ 		"alia":true
+ 	},
+ 	"empTab": [{
+ 			"empoNo": 100,
+ 			"ename": "Robert",
+ 			"salary": 9000,
+ 			"currency": "USD"
+ 		},
+ 		{
+ 			"empoNo": 101,
+ 			"ename": "NED STARCK",
+ 			"salary": 9000,
+ 			"currency": "USD"
+ 		},
+ 		{
+ 			"empoNo": 102,
+			"ename": "Tirian",
+ 			"salary": 9000,
+ 			"currency": "USD"
+ 		},
+		{
+ 			"empoNo": 103,
+ 			"ename": "jeffery",
+ 			"salary": 9000,
+ 			"currency": "USD"
+ 		}
+]
+
+}
